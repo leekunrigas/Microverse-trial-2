@@ -9,3 +9,8 @@ main {
   width: 60%;
   margin: auto;
 }
+#image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
