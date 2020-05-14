@@ -4,3 +4,8 @@
   box-sizing: border-box;
   text-align: center;
 }
+
+main {
+  width: 60%;
+  margin: auto;
+}
